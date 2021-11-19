@@ -234,7 +234,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-        isRatingVisible: false
+        isRatingVisible: true
         rating: '2'
       - type: ItemBlock
         title: Smarter
