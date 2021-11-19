@@ -292,6 +292,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
+        rating: '5'
     columns: 3
     styles:
       self:
