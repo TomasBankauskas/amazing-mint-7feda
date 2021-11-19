@@ -197,6 +197,92 @@ sections:
     type: HeroSection
   - colors: colors-a
     elementId: ''
+    title: Gallery
+    subtitle: Gallery subtitle
+    images:
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
+        altText: image alt text
+        caption: image caption
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
+    spacing: 3
+    columns: '7'
+    aspectRatio: '1:1'
+    imageSizePx: 300
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        width: wide
+        height: auto
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: MediaGallerySection
+  - colors: colors-a
+    elementId: ''
     title: Featured items section
     subtitle: Featured items section example subtitle
     items:
@@ -321,92 +407,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - colors: colors-a
-    elementId: ''
-    title: Gallery
-    subtitle: Gallery subtitle
-    images:
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
-        altText: image alt text
-        caption: image caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
-        altText: image alt text
-        caption: image caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
-        altText: image alt text
-        caption: image caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
-        altText: image alt text
-        caption: image caption
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-    spacing: 3
-    columns: '7'
-    aspectRatio: '1:1'
-    imageSizePx: 300
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-2
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-12
-    type: MediaGallerySection
   - elementId: ''
     colors: colors-f
     text: >+
