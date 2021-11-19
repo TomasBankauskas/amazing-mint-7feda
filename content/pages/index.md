@@ -501,7 +501,7 @@ sections:
           Such a great experience to be using this product. It really helped
           with what I needed help with.
         name: Carla Rogers
-        title: Head chef at The Cook
+        title: Happy customer
         image:
           type: ImageBlock
           url: /images/carla.png
