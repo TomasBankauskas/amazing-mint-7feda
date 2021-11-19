@@ -116,47 +116,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: 'A great feature, we’re proud of'
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    feature:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-6
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-primary
-        borderWidth: 0
-        borderStyle: solid
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mb-6
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - colors: colors-a
     elementId: ''
     title: Gallery
@@ -243,6 +202,47 @@ sections:
           - mt-0
           - mb-12
     type: MediaGallerySection
+  - elementId: ''
+    colors: colors-a
+    title: 'A great feature, we’re proud of'
+    text: >
+      Share WIP, comment on each other’s work, approve what’s ready to go, ship
+      together
+    feature:
+      type: ImageBlock
+      url: /images/hero-1.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-6
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderColor: border-primary
+        borderWidth: 0
+        borderStyle: solid
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mb-6
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
