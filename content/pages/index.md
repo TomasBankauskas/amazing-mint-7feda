@@ -268,10 +268,6 @@ sections:
         label: Apply Now
         url: '#'
         style: primary
-      - type: Button
-        label: Learn More
-        url: '#'
-        style: secondary
     columns: 3
     styles:
       self:
