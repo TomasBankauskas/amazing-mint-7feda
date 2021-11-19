@@ -116,7 +116,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-a
+  - colors: colors-f
     elementId: ''
     images:
       - type: ImageBlock
