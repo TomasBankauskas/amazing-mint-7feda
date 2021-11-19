@@ -496,7 +496,6 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-a
-    title: Testimonials
     subtitle: What our customers say about us
     testimonials:
       - quote: >
