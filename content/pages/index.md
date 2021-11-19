@@ -236,10 +236,9 @@ sections:
             textAlign: center
       - type: ItemBlock
         title: Smarter
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Learn how top tech companies have learned working remote using our
+          product. 
         featuredImage:
           url: >-
             https://assets.stackbit.com/components/images/default/default-image.png
