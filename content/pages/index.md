@@ -216,6 +216,18 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+        styles:  
+          title:
+            fontWeight: 700
+            fontStyle: normal
+            textAlign: center
+            margin:
+              - mt-4
+              - mb-4
+          text:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center 
       - type: ItemBlock
         title: 'The quick, brown fox jumps over a lazy dog'
         text: >-
