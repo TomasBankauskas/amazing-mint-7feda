@@ -15,9 +15,9 @@ export default function ItemBlock(props) {
                 </div>
             )}
             {props.title && (
-                <h1 className={classNames(props?.styles?.title ? mapStyles(props?.styles?.title) : null)} data-sb-field-path=".title">
+                <h3 className={classNames(props?.styles?.title ? mapStyles(props?.styles?.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h1>
+                </h3>
             )}
             {props.subtitle && (
                 <p className={classNames('text-lg', props?.styles?.subtitle ? mapStyles(props?.styles?.subtitle) : null)} data-sb-field-path=".subtitle">
