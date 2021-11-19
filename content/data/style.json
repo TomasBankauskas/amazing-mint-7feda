@@ -9,7 +9,7 @@
         "letterSpacing": "normal"
     },
     "h2": {
-        "size": "5xl",
+        "size": "6xl",
         "weight": "bold",
         "decoration": "none",
         "case": "none",
