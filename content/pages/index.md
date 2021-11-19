@@ -499,9 +499,9 @@ sections:
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
-      - quote: >-
-          It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.
+      - quote: >
+          Such a great experience to be using this product. It really helped
+          with what I needed help with.
         name: Isabelle Parks
         title: Head chef at The Cook
         image:
