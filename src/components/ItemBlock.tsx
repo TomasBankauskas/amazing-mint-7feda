@@ -2,7 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { getComponent } from '@stackbit/components/dist/components-registry';
-import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
+import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names';
 import ImageBlock from '@stackbit/components/dist/components/ImageBlock';
 
 export default function ItemBlock(props) {
