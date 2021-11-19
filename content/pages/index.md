@@ -521,7 +521,7 @@ sections:
           title:
             fontWeight: 400
             fontStyle: normal
-            textAlign: center
+            textAlign: left
     styles:
       self:
         height: auto
