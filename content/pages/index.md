@@ -500,7 +500,7 @@ sections:
       - quote: >
           Such a great experience to be using this product. It really helped
           with what I needed help with.
-        name: Isabelle Parks
+        name: Carla Rogers
         title: Head chef at The Cook
         image:
           type: ImageBlock
