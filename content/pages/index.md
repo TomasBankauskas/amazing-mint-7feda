@@ -496,7 +496,6 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-a
-    subtitle: What our customers say about us
     testimonials:
       - quote: >
           Such a great experience to be using this product. It really helped
