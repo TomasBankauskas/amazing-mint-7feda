@@ -245,7 +245,11 @@ sections:
           subtitle:
             fontWeight: 400
             fontStyle: normal
-            textAlign: center  
+            textAlign: center
+                    subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center      
     columns: 3
     styles:
       self:
