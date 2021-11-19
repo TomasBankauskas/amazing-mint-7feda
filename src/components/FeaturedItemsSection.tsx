@@ -1,7 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import { getComponent } from '../../components-registry';
-import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
+import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names';
 import ItemBlock from '@stackbit/components/dist/components/ItemBlock';
 
 export default function FeaturedItemsSection(props) {
