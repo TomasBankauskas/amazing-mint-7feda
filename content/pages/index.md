@@ -235,7 +235,7 @@ sections:
             fontStyle: normal
             textAlign: center
       - type: ItemBlock
-        title: 'The quick, brown fox jumps over a lazy dog'
+        title: Smarter
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
