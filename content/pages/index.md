@@ -157,44 +157,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: And a strong value proposition
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    feature:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-6
-          - pb-36
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mb-6
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - colors: colors-a
     elementId: ''
     title: Gallery
@@ -281,6 +243,44 @@ sections:
           - mt-0
           - mb-12
     type: MediaGallerySection
+  - elementId: ''
+    colors: colors-a
+    title: And a strong value proposition
+    text: >
+      Share WIP, comment on each other’s work, approve what’s ready to go, ship
+      together
+    feature:
+      type: ImageBlock
+      url: /images/hero-2.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-6
+          - pb-36
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mb-6
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - colors: colors-a
     elementId: ''
     title: Featured items section
