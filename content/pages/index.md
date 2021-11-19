@@ -454,7 +454,6 @@ sections:
   - elementId: ''
     variant: variant-b
     colors: colors-f
-    actions: []
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
