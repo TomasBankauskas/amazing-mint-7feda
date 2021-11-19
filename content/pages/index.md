@@ -232,11 +232,7 @@ sections:
           type: ImageBlock
           url: /favicon.svg
           altText: Post thumbnail image
-        actions:
-          - type: Button
-            label: Learn More
-            url: '#'
-            style: secondary
+        actions: []
         styles:
           title:
             fontWeight: '700'
