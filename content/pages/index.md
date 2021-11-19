@@ -541,7 +541,7 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
     type: TestimonialsSection
   - type: ContactSection
     colors: colors-e
