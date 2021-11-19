@@ -202,7 +202,6 @@ sections:
     items:
       - type: ItemBlock
         title: 'The quick, brown fox jumps over a lazy dog'
-        subtitle: Section subtitle
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
