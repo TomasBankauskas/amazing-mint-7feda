@@ -234,7 +234,17 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
-          
+                  title:
+            fontWeight: 700
+            fontStyle: normal
+            textAlign: center
+            margin:
+              - mt-0
+              - mb-4
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center  
     columns: 3
     styles:
       self:
