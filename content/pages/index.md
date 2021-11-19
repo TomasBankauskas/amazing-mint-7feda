@@ -344,7 +344,7 @@ sections:
     aspectRatio: '1:1'
     imageSizePx: 300
     showCaption: false
-    enableHover: true
+    enableHover: false
     styles:
       self:
         width: wide
