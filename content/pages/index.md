@@ -217,7 +217,23 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
-          
+      - type: ItemBlock
+        title: 'The quick, brown fox jumps over a lazy dog'
+        subtitle: Section subtitle
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
     columns: 3
     styles:
       self:
