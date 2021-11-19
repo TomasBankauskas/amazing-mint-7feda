@@ -293,6 +293,7 @@ sections:
             fontStyle: normal
             textAlign: center
         rating: '5'
+        isRatingVisible: true
     columns: 3
     styles:
       self:
