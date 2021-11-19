@@ -230,7 +230,7 @@ sections:
         rating: 1
         featuredImage:
           type: ImageBlock
-          url: /images/post-1.jpeg
+          url: /favicon.svg
           altText: Post thumbnail image
         actions:
           - type: Button
