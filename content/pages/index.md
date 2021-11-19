@@ -343,7 +343,7 @@ sections:
     columns: '7'
     aspectRatio: '1:1'
     imageSizePx: 300
-    showCaption: true
+    showCaption: false
     enableHover: true
     styles:
       self:
