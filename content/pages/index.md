@@ -498,7 +498,7 @@ sections:
     colors: colors-a
     testimonials:
       - quote: >
-          ### Such a great experience to be using this product. It really helped
+          ## Such a great experience to be using this product. It really helped
           with what I needed help with.
         name: Carla Rogers
         title: Happy customer
