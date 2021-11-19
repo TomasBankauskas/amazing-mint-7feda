@@ -8,7 +8,8 @@ registerComponents({
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
-    ItemBlock: dynamic(() => import('./ItemBlock.tsx'))
+    ItemBlock: dynamic(() => import('./ItemBlock.tsx')),
+    ItemBlock
 });
 
 /**
