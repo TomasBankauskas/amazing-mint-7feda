@@ -2,7 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import { getComponent } from '@stackbit/components/dist/components-registry';
 import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names';
-import ItemBlock from ItemBlock';
+import ItemBlock from ;
 
 export default function FeaturedItemsSection(props) {
     const cssId = props.elementId || null;
