@@ -219,42 +219,6 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
-      - elementId: ''
-        title: Item block
-        subtitle: Item block example subtitle
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        author: Earnest Hemingway
-        rating: 1
-        featuredImage:
-          type: ImageBlock
-          url: /favicon.svg
-          altText: Post thumbnail image
-        actions: []
-        styles:
-          title:
-            fontWeight: '700'
-            fontStyle: normal
-            textAlign: left
-            margin:
-              - mt-0
-              - mb-4
-          subtitle:
-            fontWeight: '400'
-            fontStyle: normal
-            textAlign: left
-            margin:
-              - mt-0
-              - mb-6
-          text:
-            textAlign: left
-            margin:
-              - mt-0
-              - mb-8
-          actions:
-            justifyContent: flex-start
     actions: []
     columns: 3
     styles:
