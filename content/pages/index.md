@@ -289,6 +289,65 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
+  - colors: colors-a
+    elementId: ''
+    title: Gallery
+    subtitle: Gallery subtitle
+    images:
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
+        altText: image alt text
+        caption: image caption
+      - type: ImageBlock
+        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
+        altText: image alt text
+        caption: image caption
+    spacing: 1
+    columns: 4
+    aspectRatio: '1:1'
+    imageSizePx: 300
+    showCaption: true
+    enableHover: true
+    styles:
+      self:
+        width: full
+        height: auto
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: MediaGallerySection
   - type: ContactSection
     colors: colors-e
     title: Get early access
