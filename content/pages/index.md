@@ -202,7 +202,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Featured items section
+    title: Remote doesn’t mean alone. Here are so great features
     subtitle: Featured items section example subtitle
     items:
       - type: ItemBlock
