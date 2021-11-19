@@ -207,7 +207,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        author: Earnest Hemingway
         rating: 5
         featuredImage:
           url: >-
