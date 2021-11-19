@@ -217,6 +217,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+          
     columns: 3
     styles:
       self:
