@@ -321,7 +321,7 @@ sections:
         textAlign: center
         margin:
           - mt-0
-          - mb-6
+          - mb-12
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
