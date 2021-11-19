@@ -140,7 +140,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderColor: border-primary
-        borderWidth: 5
+        borderWidth: 0
         borderStyle: solid
       title:
         fontWeight: 700
