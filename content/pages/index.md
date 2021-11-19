@@ -340,7 +340,7 @@ sections:
             opacity: 100
         type: ImageBlock
     spacing: 1
-    columns: '3'
+    columns: '7'
     aspectRatio: '1:1'
     imageSizePx: 300
     showCaption: true
