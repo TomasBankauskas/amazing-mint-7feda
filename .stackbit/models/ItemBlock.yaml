@@ -47,7 +47,7 @@ fields:
     default: 1
   - type: boolean
     name: isRatingVisible
-    label: Display title
+    label: Display rating
   - type: model
     name: featuredImage
     label: Featured image
