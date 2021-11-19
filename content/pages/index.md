@@ -89,7 +89,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-20
           - mb-20
           - ml-20
           - mr-20
