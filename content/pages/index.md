@@ -228,7 +228,34 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-             
+      - type: ItemBlock
+        title: 'The quick, brown fox jumps over a lazy dog'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+        styles:  
+          title:
+            fontWeight: 700
+            fontStyle: normal
+            textAlign: center
+            margin:
+              - mt-4
+              - mb-4
+          text:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center
       - type: ItemBlock
         title: 'The quick, brown fox jumps over a lazy dog'
         text: >-
