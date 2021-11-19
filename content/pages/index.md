@@ -289,7 +289,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
-  - colors: colors-a
+  - colors: colors-d
     elementId: ''
     title: Gallery
     subtitle: Gallery subtitle
