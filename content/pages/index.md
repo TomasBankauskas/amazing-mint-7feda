@@ -234,6 +234,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+        styles:  
           title:
             fontWeight: 700
             fontStyle: normal
