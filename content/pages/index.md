@@ -524,7 +524,7 @@ sections:
             textAlign: center
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
