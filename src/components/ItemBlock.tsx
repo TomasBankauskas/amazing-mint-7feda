@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
-import { ImageBlock } from import ImageBlock from '@stackbit/components/dist/components/ImageBlock';
+import ImageBlock from '@stackbit/components/dist/components/ImageBlock';
 
 export default function ItemBlock(props) {
     const cssId = props.elementId || null;
