@@ -234,10 +234,6 @@ sections:
           altText: Post thumbnail image
         actions:
           - type: Button
-            label: Apply Now
-            url: '#'
-            style: primary
-          - type: Button
             label: Learn More
             url: '#'
             style: secondary
