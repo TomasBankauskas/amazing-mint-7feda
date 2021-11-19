@@ -263,11 +263,7 @@ sections:
               - mb-8
           actions:
             justifyContent: flex-start
-    actions:
-      - type: Button
-        label: Apply Now
-        url: '#'
-        style: primary
+    actions: []
     columns: 3
     styles:
       self:
