@@ -320,7 +320,7 @@ sections:
         fontStyle: normal
         textAlign: center
         margin:
-          - mt-0
+          - mt-12
           - mb-12
       actions:
         justifyContent: flex-start
