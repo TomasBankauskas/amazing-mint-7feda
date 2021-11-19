@@ -246,7 +246,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-                    subtitle:
+          subtitle:
             fontWeight: 400
             fontStyle: normal
             textAlign: center      
