@@ -321,53 +321,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - elementId: ''
-    colors: colors-f
-    text: >+
-      ## “We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing”
-
-      [See all posts](/blog)
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mt-0
-          - mb-2
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-6
-      text:
-        textAlign: left
-        margin:
-          - mt-0
-          - mb-0
-    type: TextSection
   - colors: colors-a
     elementId: ''
     title: Gallery
@@ -454,6 +407,53 @@ sections:
           - mt-0
           - mb-12
     type: MediaGallerySection
+  - elementId: ''
+    colors: colors-f
+    text: >+
+      ## “We sometimes write things. You should read it, it might shed some
+      light on why we’re doing what we’re doing”
+
+      [See all posts](/blog)
+
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-6
+      text:
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-0
+    type: TextSection
   - elementId: ''
     variant: variant-b
     colors: colors-f
