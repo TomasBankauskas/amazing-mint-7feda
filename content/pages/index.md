@@ -94,7 +94,7 @@ sections:
           - ml-20
           - mr-20
         padding:
-          - pt-14
+          - pt-28
           - pb-16
           - pl-4
           - pr-4
