@@ -9,7 +9,7 @@ registerComponents({
     // Override any static or dynamic component,
     // or register your own dynamic component.
     ItemBlock: dynamic(() => import('./ItemBlock.tsx')),
-    MediaGallerySection: dynamic(() => import('./MediaGallerySection.tsx'))
+    FeaturedItemsSection: dynamic(() => import('./FeaturedItemsSection.tsx'))
 });
 
 /**
