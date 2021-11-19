@@ -195,6 +195,66 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+  - colors: colors-a
+    elementId: ''
+    title: Featured items section
+    subtitle: Featured items section example subtitle
+    items:
+      - type: ItemBlock
+        title: 'The quick, brown fox jumps over a lazy dog'
+        subtitle: Section subtitle
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        author: Earnest Hemingway
+        rating: 5
+    actions:
+      - type: Button
+        label: Apply Now
+        url: '#'
+        style: primary
+      - type: Button
+        label: Learn More
+        url: '#'
+        style: secondary
+    columns: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-4
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-6
+      actions:
+        justifyContent: flex-start
+    type: FeaturedItemsSection
   - elementId: ''
     colors: colors-f
     text: >+
