@@ -262,7 +262,7 @@ sections:
             fontStyle: normal
             textAlign: center
       - type: ItemBlock
-        title: 'The quick, brown fox jumps over a lazy dog'
+        title: Focused
         text: >
           Learn how top tech companies have learned working remote using our
           product. 
