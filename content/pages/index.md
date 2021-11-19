@@ -264,6 +264,7 @@ sections:
             fontStyle: normal
             textAlign: center
         isRatingVisible: true
+        rating: '2'
       - type: ItemBlock
         title: Focused
         text: >
