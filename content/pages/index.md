@@ -29,7 +29,7 @@ sections:
           - mt-20
           - mb-11
           - ml-0
-          - mr-32
+          - mr-0
         padding:
           - pt-12
           - pb-12
