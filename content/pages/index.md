@@ -240,7 +240,7 @@ sections:
             fontStyle: normal
             textAlign: center
             margin:
-              - mt-0
+              - mt-4
               - mb-4
           subtitle:
             fontWeight: 400
