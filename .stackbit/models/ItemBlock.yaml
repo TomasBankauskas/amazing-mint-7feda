@@ -45,6 +45,9 @@ fields:
       - label: '5'
         value: 5
     default: 1
+  - type: boolean
+    name: isTitleVisible
+    label: Display title
   - type: model
     name: featuredImage
     label: Featured image
