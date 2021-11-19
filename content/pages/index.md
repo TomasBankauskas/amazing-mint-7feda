@@ -26,7 +26,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-20
           - mb-11
           - ml-28
           - mr-32
