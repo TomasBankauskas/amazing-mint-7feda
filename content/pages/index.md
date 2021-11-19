@@ -203,7 +203,9 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
-    subtitle: Featured items section example subtitle
+    subtitle: >-
+      These are all excellent features that will provide exactly the things
+      you’re looking for.
     items:
       - type: ItemBlock
         title: 'The quick, brown fox jumps over a lazy dog'
