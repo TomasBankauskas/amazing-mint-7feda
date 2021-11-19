@@ -227,7 +227,8 @@ sections:
           text:
             fontWeight: 400
             fontStyle: normal
-            textAlign: center 
+            textAlign: center
+             
       - type: ItemBlock
         title: 'The quick, brown fox jumps over a lazy dog'
         text: >-
