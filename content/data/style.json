@@ -62,7 +62,7 @@
         "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": "none",
-        "horizontalPadding": 30,
+        "horizontalPadding": 17,
         "verticalPadding": 12,
         "shadow": "none"
     },
